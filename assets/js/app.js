@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var location = 'Denver';
 var key = '853e93a46a8527ed602b633b52d0c2f8';
 var queryURL3 = `https://api.brewerydb.com/v2/breweries/?key=${key}&locality=${location}`;
@@ -8,7 +7,6 @@ $.ajax({
 }).then(function (data) {
     console.log(data);
 });
-=======
 
 
 // Code for using Eventful API
@@ -95,4 +93,3 @@ function renderEvents(e) {
 
 // Runs above function when clicked
 $("#get-events").on("click", renderEvents);
->>>>>>> 669b2fa5abeb5d9d3b5b55f3da122bd885ad8d37
