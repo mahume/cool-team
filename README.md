@@ -10,12 +10,6 @@ Trip Over This provides travel inspiration for the angry, reluctant traveler. Th
 
 As a user, I want to find inspiration to comfort me after a grueling 8 hour coding meeting in an unfamiliar town.
 
-## Features:
-
-* Data Persistence using Firebase (saves and displays the most recently searched city).
-* User Input Validation. City, start date, and end date must be entered to return results. The same date can be entered for start and end dates to return same day events.
-
-
 ## Getting Started:
 
 [Test it out](https://mahume.github.io/Trip-Over-This/)
@@ -24,6 +18,11 @@ As a user, I want to find inspiration to comfort me after a grueling 8 hour codi
 2.  Get results
 
 ![results page](assets/images/results.png)
+
+## Features:
+
+* Data Persistence using Firebase (saves and displays the most recently searched city).
+* User Input Validation. City, start date, and end date must be entered to return results. The same date can be entered for start and end dates to return same day events.
 
 ## Technologies:
 
